@@ -3,7 +3,7 @@ logs
 *.log
 
 # Linux OS temp files
-*.md~
+*~
 
 npm-debug.log*
 yarn-debug.log*
