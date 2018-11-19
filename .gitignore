@@ -5,6 +5,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# Linux OS temp files
+
 # Runtime data
 pids
 *.pid
